@@ -5,6 +5,7 @@ name: Auto-fix pull request
 on:
   repository_dispatch:
     types: [opened, synchronize]
+  workflow_dispatch:
 
 jobs:
   nbfmt:
