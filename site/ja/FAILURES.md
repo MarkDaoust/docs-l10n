@@ -10,7 +10,7 @@ using the [GitLocalize project](https://gitlocalize.com/tensorflow/docs-l10n).
 *Notebooks are tested on a periodic basis (usually weekly or bi-weekly) so the
 following list may not reflect recent updates.*
 
-Updated: Mon, 02 Mar 2026 23:20:10 GMT<br/>
+Updated: Mon, 09 Mar 2026 23:22:05 GMT<br/>
 Last run: Mon, 08 Aug 2022 16:35:04 GMT
 
 Failures in <code>site/ja/</code>:
